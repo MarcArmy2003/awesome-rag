@@ -1,4 +1,9 @@
-# Awesome-RAG  (2024)
+# Awesome-RAG
+> Repository role reviewed September 17, 2026. This is a reference collection,
+> not an application or a deployed RAG backend. The list below retains its
+> original 2024-era curation; entries have not been revalidated for current
+> maintenance, pricing, security, or suitability. Inclusion is not endorsement.
+
 *A Curated List of LLM-Aided Tools with Retrieval Augmented Generation (RAG)*
 
 This repository offers a comprehensive collection of RAG modules, tools, chatbots, and tutorials. Explore various resources to help you integrate Retrieval-Augmented Generation into your AI projects.
@@ -69,4 +74,4 @@ This repository offers a comprehensive collection of RAG modules, tools, chatbot
 
 ---
 
-Stay updated as this list grows with new and exciting RAG developments!
+Check each project's official documentation and license before adoption. Preserve attribution and link history when updating this collection.
